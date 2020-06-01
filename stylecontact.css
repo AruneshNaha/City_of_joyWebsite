@@ -1,0 +1,19 @@
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+form input,
+textarea {
+    border: 2px solid white;
+    margin: 8px;
+    background: none;
+    color: white;
+    border-radius: 10px;
+    padding: 6px;
+}
+
+.fhalf {
+    margin-top: 100px;
+}
